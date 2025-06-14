@@ -1,6 +1,9 @@
 # HELLOW WELCOM TO QUEEN BUNNY MD V1
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines="𝐐𝐔𝐄𝐄𝐍 𝐁𝐔𝐍𝐍𝐘 𝐌𝐃" alt="Typing SVG" /></a>
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=QUEEN-BUNNY" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
 <a><img src='https://i.ibb.co/5XNzHkVp/3908.jpg'/></a>
@@ -8,10 +11,6 @@
   <a href="https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20chamaofc-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
-<div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=https://whatsapp.com/channel/0029Vb5ZZrP002SzdBqZEa2X/2306
-</div>
 
 <p align="center">
 <a href="https://https://github.com/Bunnymdxy/OFFICIAl-BUNNY-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
