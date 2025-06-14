@@ -1,6 +1,6 @@
 # HELLOW WELCOM TO QUEEN BUNNY MD V1
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=QUEEN-BUNNY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines="𝐐𝐔𝐄𝐄𝐍 𝐁𝐔𝐍𝐍𝐘 𝐌𝐃" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://files.catbox.moe/5hd2zv.jpg'/></a>
 <a><img src='https://i.ibb.co/5XNzHkVp/3908.jpg'/></a>
