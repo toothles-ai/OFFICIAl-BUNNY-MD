@@ -7,3 +7,6 @@
 # 𝐏𝐋𝐄𝐀𝐒𝐄 𝐅𝐎𝐋𝐋𝐎𝐖 𝐁𝐎𝐓 𝐒𝐎𝐏𝐏𝐎𝐑𝐓 𝐂𝐇𝐀𝐍𝐄𝐋 𝐋𝐈𝐍𝐊 𝐈𝐍 𝐓𝐇𝐄 𝐀𝐋𝐈𝐕𝐄 𝐌𝐀𝐒𝐒𝐀𝐆𝐄.
 
 # 𝐏𝐎𝐖𝐄𝐑 𝐁𝐘 𝐌𝐀𝐍𝐔𝐒𝐇𝐀 𝐋𝐀𝐒𝐈𝐓𝐇
+
+
+support https://whatsapp.com/channel/0029VbAXsYXIiRozOhimJZ0Z
